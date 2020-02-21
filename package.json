@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "reactjs-boilerplate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Author Minh Tran build boilerplate",
+  "main": "index.js",
+  "author": "tnminhit99 <tnminh.it99@gmail.com>",
+  "license": "MIT"
 }
